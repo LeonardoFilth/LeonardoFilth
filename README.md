@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá Galera, tudo bem ?  👋
 🔭 I’m currently working on student 
 <br>
 🌱 I’m currently learning Bootstrap, Java Script, Trafégo Pago....
