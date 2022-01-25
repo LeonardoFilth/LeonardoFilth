@@ -20,5 +20,8 @@
   <div>
        <a href="https://www.instagram.com/leonardo_filth/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-souza-5b5b97113/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
     ![Snake animation](https://github.com/LeonardoFilth/LeonardoFilth/blob/output/github-contribution-grid-snake.svg)
+    
+    
   </div>
