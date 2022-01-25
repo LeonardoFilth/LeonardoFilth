@@ -2,8 +2,7 @@
 🔭 I’m currently working on student 
 <br>
 🌱 I’m currently learning Bootstrap, Java Script, Trafégo Pago....
-<!--
-**LeonardoFilth/LeonardoFilth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <div align="center">
   <a href="https://github.com/LeonardoFilth">
